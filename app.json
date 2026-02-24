@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "expo-sqlite"
+  ],
+  "name": "upwind-expo-sample",
+  "slug": "upwind-expo-sample"
+}

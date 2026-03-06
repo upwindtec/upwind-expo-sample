@@ -3,5 +3,8 @@
     "expo-sqlite"
   ],
   "name": "upwind-expo-sample",
-  "slug": "upwind-expo-sample"
+  "slug": "upwind-expo-sample",
+  "android": {
+    "package": "com.anonymous.upwindexposample"
+  }
 }
